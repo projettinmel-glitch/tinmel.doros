@@ -1,0 +1,84 @@
+{
+  "packs": [
+    {
+      "id": "islam3",
+      "title": "التربية الإسلامية",
+      "level": "المستوى الثالث ابتدائي",
+      "version": "1.0.0",
+      "file": "islam3.doros",
+      "size": 3343235,
+      "sha256": "6f8f6aae98520d40376b68748dce028a5b5901afd24ffd3bb19958df508e9084",
+      "lessons": 45
+    },
+    {
+      "id": "islam4",
+      "title": "التربية الإسلامية",
+      "level": "المستوى الرابع ابتدائي",
+      "version": "1.0.1",
+      "file": "islam4.doros",
+      "size": 1273805,
+      "sha256": "15808bce233e54b0a1757a7631ace91f279356da918193e7f615e14a3d685564",
+      "lessons": 43
+    },
+    {
+      "id": "music3",
+      "title": "التربية الموسيقية",
+      "level": "المستوى الثالث ابتدائي",
+      "version": "1.0.0",
+      "file": "music3.doros",
+      "size": 2711485,
+      "sha256": "b8a8c4fd10770b838901951637516ec2f070c377327ddf4afd030c5ef022cb65",
+      "lessons": 12
+    },
+    {
+      "id": "social4",
+      "title": "الاجتماعيات - المستوى الرابع",
+      "level": "المستوى الرابع ابتدائي",
+      "version": "0.3.0",
+      "file": "social4.doros",
+      "size": 14599516,
+      "sha256": "f727ce9aacf6092c6a70b38e98571c6991000f3d85edf926322d851bc3b518a8",
+      "lessons": 36
+    },
+    {
+      "id": "social5",
+      "title": "الاجتماعيات 5",
+      "level": "المستوى الخامس ابتدائي",
+      "version": "0.2.0",
+      "file": "social5.doros",
+      "size": 16261515,
+      "sha256": "343f9b28ed3bfee8ee1cdfc5067d327e57b0a94f1a2aee3c17320ddaa4e1fc68",
+      "lessons": 36
+    },
+    {
+      "id": "social6",
+      "title": "الاجتماعيات - السادس",
+      "level": "المستوى السادس ابتدائي",
+      "version": "0.2.0",
+      "file": "social6.doros",
+      "size": 16035003,
+      "sha256": "b36eecd0b564894330545ebdd45b6ae056c2c607dcc01f316179e220ada99b59",
+      "lessons": 36
+    },
+    {
+      "id": "theatre3",
+      "title": "المسرح — المستوى الثالث",
+      "level": "المستوى الثالث ابتدائي",
+      "version": "1.0.0",
+      "file": "theatre3.doros",
+      "size": 3774631,
+      "sha256": "7fdc2e5f6b92c54bc4c492d33eecda4233b8d2939c86b76b07e704bb8e2cca4e",
+      "lessons": 14
+    },
+    {
+      "id": "theatre4",
+      "title": "المسرح — المستوى الرابع",
+      "level": "المستوى الرابع ابتدائي",
+      "version": "1.0.1",
+      "file": "theatre4.doros",
+      "size": 3774600,
+      "sha256": "4ba01a1c3c35bceea32ce5c9ae12e88025842e815b2b30ee2a8c9b9c0063bf2e",
+      "lessons": 14
+    }
+  ]
+}
